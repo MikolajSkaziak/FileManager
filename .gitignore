@@ -69,3 +69,5 @@ nul
 tmpclaude*
 *.bak
 *.backup
+src/vcxproj/salamander/Release_x64/lang/english.slg
+src/vcxproj/salamander/Release_x64/salamand.exe
